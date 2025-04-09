@@ -1,0 +1,17 @@
+[
+    {
+        "timestamp": "2025-04-04 22:01:17,890",
+        "error_message": "Failed to connect to external service.\n\nRetrying in 5 seconds. Error: Connection refused.",
+        "extracted_at": "2025-04-09T12:28:44.014288"
+    },
+    {
+        "timestamp": "2025-04-04 22:01:33,012",
+        "error_message": "File not found. Path:\n\n/tmp/important_file.txt.",
+        "extracted_at": "2025-04-09T12:28:44.014305"
+    },
+    {
+        "timestamp": "2025-04-04 22:01:38,675",
+        "error_message": "Exception during shutdown. Error: 'NoneType' object has no attribute 'close!'.",
+        "extracted_at": "2025-04-09T12:28:44.014308"
+    }
+]
