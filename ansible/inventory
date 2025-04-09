@@ -1,0 +1,4 @@
+[webservers]
+192.168.153.133 ansible_user=khaleeda
+192.168.153.128 ansible_user=khaleeda
+192.168.153.131 ansible_user=khaleeda
